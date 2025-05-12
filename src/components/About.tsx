@@ -90,7 +90,7 @@ const About: React.FC = () => {
           <div className="mb-12 bg-white dark:bg-gray-800 rounded-xl p-8 shadow-md">
             <p className="text-lg text-gray-700 dark:text-gray-300 mb-4">
               I am just another programmer, or so one may think! Heyyy Guys!! Im Joseph, Call me Joe!
-              Engineer, Musician and Above all, Child Of The Almighty!💙
+              A Self Proclaimed Jack Of All Trades! 💙
             </p>
             <p className="text-lg text-gray-700 dark:text-gray-300 mb-4">
              Ever since I was a kid, I was always a geek when it came to fixing my TV, my old desktop computer and even the 
