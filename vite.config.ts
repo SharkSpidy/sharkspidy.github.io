@@ -7,5 +7,5 @@ export default defineConfig({
     exclude: ['lucide-react'],
   },
   publicDir: 'public',
-  base: '/',
+  base: './',
 });
