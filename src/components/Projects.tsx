@@ -29,20 +29,20 @@ export const projects = [
     repoUrl: "https://github.com/sharkspidy/ZoomIn_ZoomOut",
   },
   {
-    title: "Portfolio Website",
+    title: "JoyStick Website",
     category: "Web Dev",
     description:
-      "A sleek personal portfolio built with React + Tailwind.",
-    image: "/images/p4.png",
+      "Designed, built, and deployed a sleek website built with React + Tailwind.",
+    image: "/images/joystick.png",
     technologies: ["React", "TailwindCSS", "Framer Motion"],
-    repoUrl: "#",
+    repoUrl: "https://joystick-ae-org.vercel.app/",
   },
   {
-    title: "Smart Glove ISL",
-    category: "Hardware",
+    title: "PRIME",
+    category: "Web Dev",
     description:
-      "Glove that converts Indian Sign Language to speech.",
-    image: "/images/p5.png",
+      "Project Repository and Integrated Monitoring Environment.",
+    image: "/images/PRIME.jpg",
     technologies: ["Arduino", "Flex Sensors", "ML Model"],
     repoUrl: "#",
   },
@@ -50,10 +50,10 @@ export const projects = [
     title: "EventureX",
     category: "Initiatives",
     description:
-      "Event management platform for students to earn.",
+      "Designed an Event management platform for students to earn.",
     image: "/images/p6.png",
     technologies: ["React", "Firebase", "TailwindCSS"],
-    repoUrl: "#",
+    repoUrl: "https://eventurex25.github.io/",
   },
 ];
 
