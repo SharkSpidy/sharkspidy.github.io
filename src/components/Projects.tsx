@@ -35,7 +35,7 @@ export const projects = [
     description: "Created a Retro gaming design for SHN's website.",
     image: "/images/shndesign.png",
     technologies: ["Figma", "HTML", "CSS", "JavaScript"],
-    repoUrl: "https://github.com/sharkspidy/BGRemove_CV",
+    repoUrl: "https://github.com/sharkspidy/shn_website",
   },
   {
     title: "Volume Control",
