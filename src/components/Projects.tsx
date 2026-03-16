@@ -33,7 +33,7 @@ export const projects = [
     title: "SHN Design",
     category: "Web Dev",
     description: "Created a Retro gaming design for SHN's website.",
-    image: "/images/shndesign.png",
+    image: "/images/Shndesign.png",
     technologies: ["Figma", "HTML", "CSS", "JavaScript"],
     repoUrl: "https://github.com/sharkspidy/shn_website",
   },
