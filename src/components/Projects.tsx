@@ -17,7 +17,7 @@ export const projects = [
     description:
       "Project Repository and Integrated Monitoring Environment.",
     image: "/images/PRIME.jpg",
-    technologies: ["Arduino", "Flex Sensors", "ML Model"],
+    technologies: ["Figma", "React", "TailwindCSS", "Node.js", "Express", "MongoDB"],
     repoUrl: "https://github.com/sharkspidy/backupprime",
   },
   {
@@ -30,6 +30,14 @@ export const projects = [
     repoUrl: "https://eventurex25.github.io/",
   },
   {
+    title: "SHN Design",
+    category: "Web Dev",
+    description: "Created a Retro gaming design for SHN's website.",
+    image: "/images/shndesign.png",
+    technologies: ["Figma", "HTML", "CSS", "JavaScript"],
+    repoUrl: "https://github.com/sharkspidy/BGRemove_CV",
+  },
+  {
     title: "Volume Control",
     category: "Computer Vision",
     description:
@@ -37,14 +45,6 @@ export const projects = [
     image: "/images/p1.png",
     technologies: ["Python", "OpenCV", "MediaPipe", "numpy", "pycaw"],
     repoUrl: "https://github.com/sharkspidy/VolumeCtrl",
-  },
-  {
-    title: "Background Changer",
-    category: "Computer Vision",
-    description: "Just a simple background changer!",
-    image: "/images/p2.png",
-    technologies: ["Python", "OpenCV", "MediaPipe", "Numpy", "CVZone"],
-    repoUrl: "https://github.com/sharkspidy/BGRemove_CV",
   },
   {
     title: "Zoom-In Zoom-Out",
