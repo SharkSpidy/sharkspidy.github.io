@@ -3,6 +3,33 @@ import { motion } from "framer-motion";
 
 export const projects = [
   {
+    title: "JoyStick Website",
+    category: "Web Dev",
+    description:
+      "Designed, built, and deployed a sleek website built with React + Tailwind.",
+    image: "/images/joystick.png",
+    technologies: ["React", "TailwindCSS", "Framer Motion"],
+    repoUrl: "https://joystick-ae-org.vercel.app/",
+  },
+  {
+    title: "PRIME",
+    category: "Web Dev",
+    description:
+      "Project Repository and Integrated Monitoring Environment.",
+    image: "/images/PRIME.jpg",
+    technologies: ["Arduino", "Flex Sensors", "ML Model"],
+    repoUrl: "https://github.com/sharkspidy/backupprime",
+  },
+  {
+    title: "EventureX",
+    category: "Initiatives",
+    description:
+      "Designed an Event management platform for students to earn.",
+    image: "/images/eventurex.png",
+    technologies: ["React", "Firebase", "TailwindCSS"],
+    repoUrl: "https://eventurex25.github.io/",
+  },
+  {
     title: "Volume Control",
     category: "Computer Vision",
     description:
@@ -27,33 +54,6 @@ export const projects = [
     image: "/images/p3.png",
     technologies: ["OpenCV", "Numpy", "MediaPipe", "Python", "CVZone"],
     repoUrl: "https://github.com/sharkspidy/ZoomIn_ZoomOut",
-  },
-  {
-    title: "JoyStick Website",
-    category: "Web Dev",
-    description:
-      "Designed, built, and deployed a sleek website built with React + Tailwind.",
-    image: "/images/joystick.png",
-    technologies: ["React", "TailwindCSS", "Framer Motion"],
-    repoUrl: "https://joystick-ae-org.vercel.app/",
-  },
-  {
-    title: "PRIME",
-    category: "Web Dev",
-    description:
-      "Project Repository and Integrated Monitoring Environment.",
-    image: "/images/PRIME.jpg",
-    technologies: ["Arduino", "Flex Sensors", "ML Model"],
-    repoUrl: "#",
-  },
-  {
-    title: "EventureX",
-    category: "Initiatives",
-    description:
-      "Designed an Event management platform for students to earn.",
-    image: "/images/p6.png",
-    technologies: ["React", "Firebase", "TailwindCSS"],
-    repoUrl: "https://eventurex25.github.io/",
   },
 ];
 
@@ -130,7 +130,7 @@ export default function Projects() {
                 rel="noopener noreferrer"
                 className="text-purple-400 text-sm hover:underline"
               >
-                🔗 View Repository
+                🔗 View Project
               </a>
             )}
           </motion.div>
